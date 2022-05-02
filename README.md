@@ -6,10 +6,7 @@ REST has quickly become the de-facto standard for building web services on the w
 
 There’s a much larger discussion to be had about how REST fits in the world of microservices, but — for this tutorial — let’s just look at building RESTful services.
 
-As we work through this tutorial, we’ll use Spring Boot and the following dependencies:
-- Web
-- JPA
-- H2
+This tutorial is based on existing tutorial using Spring Boot and the following dependencies: Web, JPA, H2
 
 This tutorial will focus on how you can use Oracle NoSQL Spring Data for a flexible and elastic database that scales with your application. 
 We start with the spring boot's standard tutorial - the in memory H2 database, and them move over to Oracle NoSQL Cloud Services. 
